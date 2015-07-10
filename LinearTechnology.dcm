@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT8302
+D Switching Regulator 3.6A (Isolated)
+K isolated switching regulator pmic
+$ENDCMP
+#
+$CMP LTC4151
+D High Voltage Current/Voltage Monitor
+K I2C Current Voltage Monitor
+$ENDCMP
+#
+$CMP LTC4414
+D Low Loss Power Path Controller
+K Power Supply OR, PMIC
+$ENDCMP
+#
+#End Doc Library
