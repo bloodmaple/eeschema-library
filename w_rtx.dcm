@@ -15,11 +15,6 @@ D USB UART
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/FTDI_FT232BL.pdf
 $ENDCMP
 #
-$CMP FT232RL
-D USB2 UART
-F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/FTDI_FT232R.pdf
-$ENDCMP
-#
 $CMP FT245RL
 D USB2 FIFO
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/FTDI_FT245R.pdf
